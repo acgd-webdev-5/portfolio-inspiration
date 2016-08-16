@@ -7,7 +7,7 @@
 
 **Browse the web for other designer’s portfolio websites—and really any website in general—looking for inspiration.**
 
-*Look for **5 or more** things that you think would be appropriate for your portfolio:*
+Look for **5 or more** things that you think would be appropriate for your portfolio:
 
 - Find components on websites
 - Find user experiences
