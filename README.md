@@ -26,6 +26,8 @@
 - [**Unmatched Style**](http://unmatchedstyle.com/)
 - [**Styleboost**](http://styleboost.com/)
 - [One Page Love](https://onepagelove.com/)
+- [Awwwards](http://www.awwwards.com/)
+- [The Best Designs](https://www.thebestdesigns.com/)
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 
