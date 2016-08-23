@@ -1,11 +1,12 @@
-# Portfolio inspiration
-
-- Approx. completion time: **30 mins**
-- Deliverables: **1 text document**
-
+---
+summary: "Browse the web for other designer’s portfolio websites—and really any website in general—looking for inspiration."
+time: "30 mins"
+deliverables: "1 text document"
 ---
 
-**Browse the web for other designer’s portfolio websites—and really any website in general—looking for inspiration.**
+# Portfolio inspiration
+
+## Overview
 
 Look for **5 or more** things that you think would be appropriate for your portfolio:
 
