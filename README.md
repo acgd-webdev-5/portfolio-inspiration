@@ -15,7 +15,6 @@ Look for **5 or more** things that you think would be appropriate for your portf
 - Find colour palettes
 - Find text descriptions
 - Find layouts
-- Find portfolio orientations
 - *Find whatever…*
 
 **Write a quick sentence on each thing you find explaining why it’s appropriate for your website or why it inspires you.** *You’ll be showing this inspiration board to the teacher.*
